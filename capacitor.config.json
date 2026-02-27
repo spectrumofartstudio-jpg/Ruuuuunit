@@ -1,0 +1,6 @@
+{
+  "appId": "com.manchuborn.assetflow",
+  "appName": "AssetFlow",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
